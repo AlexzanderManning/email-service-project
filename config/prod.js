@@ -4,3 +4,5 @@ module.exports = {
   mongoURI: process.env.MONGO_URI,
   cookieKey: process.env.COOKIE_KEY,
 };
+
+///These keys are set in real time in the prod enviorment by heroku.
